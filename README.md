@@ -3,8 +3,12 @@ Just a little benchmark for scrapper PC's
 
 
 Made by DaGarry and DrSolidDevil
+
 Github: https://github.com/DaGarry
+
 Github: https://github.com/DrSolidDevil
+
+
 
 
 This benchmark is for old computer that dont support other benchmark because of support. Like lack of support for directX 11, 12 etc.
